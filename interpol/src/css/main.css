@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+
+body {
+  background: url('https://c4.wallpaperflare.com/wallpaper/619/550/467/dark-blue-wallpaper-thumb.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+.titulo {
+  font-family: Bevan, cursive;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+.card {
+  width: 400px;
+  background-color: white;
+  color: black;
+  margin: 0 auto 30px;
+  padding: 15px;
+  border-radius: 10px;
+}
